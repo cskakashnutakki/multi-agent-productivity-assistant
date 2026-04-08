@@ -213,4 +213,3 @@ This project was created for the Gen AI Academy APAC Edition Hackathon.
 
 **Nutakki Chandra Sekhara Krishna Akash**
 
-Built with ❤️ using Anthropic Claude and Google Cloud Platform
